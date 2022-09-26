@@ -1,0 +1,4 @@
+---
+# defaults file for deploy_node_exporters
+centos_group: vagrant
+centos_user: vagrant

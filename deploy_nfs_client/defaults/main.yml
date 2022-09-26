@@ -1,0 +1,4 @@
+---
+# defaults file for deploy_nfs_client
+centos_group: vagrant
+centos_user: vagrant

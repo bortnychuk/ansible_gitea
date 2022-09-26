@@ -1,0 +1,5 @@
+---
+# defaults file for connect_app2_db
+ini_path: /etc/gitea/
+centos_group: vagrant
+centos_user: vagrant
